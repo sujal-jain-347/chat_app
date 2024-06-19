@@ -4,7 +4,7 @@ The chat app application which is very use full in the comunication with the bet
 
 This chat app includes the one_to_one user chat comiunication , registration , log-in , forget password through email verfication , and the change profile
 
-here i have use the : React , Node.js , mongodb , socket.js
+here i have use the : React , Node.js , mongodb , socket.io
 
 for running the website just npm i in the frontend and backend directory, and set the .env file as per .env.example
 
